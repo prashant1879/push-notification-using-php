@@ -1,0 +1,54 @@
+
+
+ --Notification deviceTokenData -
+ {"APP_ID":"1","APP_NAME":"Medi Rescue Premium","APP_GCM_KEY":"AIzaSyD4bp4b-zxGB1ZYdf2HnimypK0tZOspyQI","APP_PEM_FILE":"Medi_Rescue_Paid_dev.pem","APP_TYPE":"1","APP_VOICE_MSG_ID":"","APP_IS_LIVE":"2","APP_STATUS":"1"}
+
+ -- End of deviceTokenData 
+
+
+ - Notification pem_file_path-- 
+ "..\/uploads\/pem\/1\/Medi_Rescue_Paid_dev.pem"
+
+ --- End of message--- 
+
+
+ - Notification message-- 
+ {"aps":{"icon":"appicon","alert":"send test notification","badge":"1","category":"Notification","sound":"default"}}
+
+ --- End of message--- 
+
+
+ --Notification userdeviceToken -
+ ["(null)"]
+
+ -- End of userdeviceToken 
+
+
+ ------- Notification userdeviceToken ----------- 
+ ["(null)"]
+
+ -------- End of userdeviceToken--- 
+
+
+ ------- Notification body ----------- 
+ {"aps":{"icon":"appicon","alert":"send test notification","badge":"1","category":"Notification","sound":"default"}}
+
+ -------- End of body--- 
+
+
+ ------- Notification pem_file_path ----------- 
+ "..\/uploads\/pem\/1\/Medi_Rescue_Paid_dev.pem"
+
+ -------- End of pem_file_path--- 
+
+
+ ------- Notification app_is_live ----------- 
+ "2"
+
+ -------- End of app_is_live--- 
+
+
+ ------- Notification fp ----------- 
+ false
+
+ -------- End of fp--- 
